@@ -4,8 +4,6 @@ number1 = 15
 number2 = 25
 number3 = 202
 
-sum = 0
-
 #make a function
 
 def total_sum(first, second):
